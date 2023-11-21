@@ -1,4 +1,3 @@
-
 *{
     padding: 0;
     margin: 0;
@@ -119,6 +118,7 @@ body{
     width: 110px;
     height: 110px;
     border-radius: 50%;
+    background: url('img/profile.jpg') no-repeat center / cover;
     border: 4px solid #BC8F8F;
     margin-bottom: 2px;
     overflow: hidden;
